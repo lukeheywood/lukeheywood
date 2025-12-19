@@ -61,7 +61,7 @@ These repositories are reference implementations and pattern labs aligned to tha
   Patterns for mapping systems, detecting drift, and making sense of complex platforms.  
   https://github.com/lukeheywood/system-diagnostics
 
-  - ❓ **ask-and-memory-patterns**  
+- ❓ **ask-and-memory-patterns**  
   Design patterns for Ask systems: memory indexing, retrieval boundaries, and grounded, traceable answers.  
   https://github.com/lukeheywood/ask-and-memory-patterns
 
