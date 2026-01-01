@@ -110,3 +110,16 @@ you’ll probably find something here that resonates.
 is the thread that ties this work together.
 
 This lab is not a showcase of outcomes, but a record of how complex systems are made inspectable, governable, and durable under load.
+---
+
+## 📚 ONE — Repository Index
+
+- **system-skeletons** → Structural blueprints and allowed system shapes  
+- **contract-stack-examples** → Formal invariants and governance constraints  
+- **one-reference-system** → System inspection and explainability anchor  
+- **ai-workflow-engine** → Governed, artifact-producing execution pipelines  
+- **system-diagnostics** → Mapping and drift-detection patterns  
+- **ask-and-memory-patterns** → Grounded retrieval and answerability design
+
+This index exists for orientation only.  
+Each repository remains independently scoped and truth-aligned.
