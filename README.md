@@ -88,6 +88,17 @@ These repositories are reference implementations and pattern labs — some purel
 
 ---
 
+## 🧾 Case Studies
+
+Canonical, inspectable case studies live in the **ONE System Atlas**.
+
+These document stabilised work and system behaviour under real constraints — not outcomes, but structure, decisions, and evidence.
+
+• **Case Study 01 — System Explainability Under Load**  
+  https://github.com/lukeheywood/lukeheywood__one-platform/blob/main/case-studies/01-system-explainability-under-load.md
+
+---
+
 ## 🎯 What this is for
 
 This lab exists to:
