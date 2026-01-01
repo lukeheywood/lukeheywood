@@ -37,12 +37,31 @@ I approach systems with a few core ideas:
 
 ---
 
+## 🧱 What exists today
+
+This is not a conceptual framework alone.
+
+The system behind this lab includes:
+
+- A working memory engine with governed ingestion, routing, and retrieval
+- Executable AI workflows that produce context packs, artifacts, and evidence bundles
+- A formal inspection and explainability layer that reports, in black and white, what exists, what runs, and what is partial
+- Governance structures (contracts, invariants, classifications) that constrain change and prevent slow drift over time
+
+Many components are still evolving.  
+Some are intentionally incomplete.
+
+But the system already explains itself, executes workflows, and emits inspectable outputs under real constraints.
+
+---
+
 ## 🧪 The Lab
 
-These repositories are reference implementations and pattern labs aligned to that lens:
+These repositories are reference implementations and pattern labs — some purely structural, others backed by executable engines and inspection tooling — aligned to that lens:
 
 - 🧠 **one-reference-system**  
   A living reference system exploring how governance, memory, workflows, and human context interact in practice.  
+  Includes a runnable inspection workflow that emits a system snapshot describing components, data domains, workflows, and interfaces.  
   https://github.com/lukeheywood/one-reference-system
 
 - 🧱 **system-skeletons**  
@@ -65,7 +84,7 @@ These repositories are reference implementations and pattern labs aligned to tha
   Design patterns for Ask systems: memory indexing, retrieval boundaries, and grounded, traceable answers.  
   https://github.com/lukeheywood/ask-and-memory-patterns
 
-(Many of these start as stubs — the structure and intent come first, then depth.)
+*(Many of these start as stubs — the structure and intent come first, then depth.)*
 
 ---
 
@@ -89,3 +108,5 @@ you’ll probably find something here that resonates.
 
 *System Mapping: Finding Coherence in Complex Platforms*  
 is the thread that ties this work together.
+
+This lab is not a showcase of outcomes, but a record of how complex systems are made inspectable, governable, and durable under load.
