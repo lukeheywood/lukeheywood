@@ -51,7 +51,25 @@ The system behind this lab includes:
 Many components are still evolving.  
 Some are intentionally incomplete.
 
-But the system already explains itself, executes workflows, and emits inspectable outputs under real constraints.
+But the system already exposes its structure, executes workflows, and emits inspectable outputs under real constraints
+
+---
+
+## ✍️ Authorship & Responsibility
+
+ONE is an authored system.
+
+I am its designer and primary author, and I take responsibility for the system’s behaviour, limits, and failure modes as it evolves.
+
+ONE does not claim certainty it cannot justify.
+Its assumptions are explicit.
+Its constraints are intentional.
+Its gaps are named rather than obscured.
+
+This work is built in public so its structure, trade-offs, and limitations can be examined directly.
+Feedback and critique are welcome.
+
+System direction, scope, and accountability remain with the author.
 
 ---
 
