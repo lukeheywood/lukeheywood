@@ -60,6 +60,32 @@ If `one-runtime` shows **how** the system runs,
 
 ---
 
+### 🏛️ ai — system — design — governance *System-Level Standard*
+
+The governing framework that sits above any individual AI system.
+
+System-level AI System Design & Governance framework
+
+Defines what must be true before, during, and after an AI system exists
+
+Separates governance from implementation to avoid circular authority
+
+Designed to apply to any AI-enabled socio-technical system, not just ONE
+
+This repository acts as the constitutional layer:
+
+it defines scope, authority, unacceptable states, and enforcement posture
+
+it does not contain runtime code
+
+it does not depend on ONE or any other system
+
+AI systems (including ONE) sit inside this framework and may be inspected against it.
+
+👉 https://github.com/lukeheywood/ai-system-design-governance
+
+---
+
 ### 🔍 system-diagnostics — *Drift & Failure Patterns*
 
 Supporting patterns for understanding why systems degrade over time.
