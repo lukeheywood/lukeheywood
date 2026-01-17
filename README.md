@@ -60,7 +60,7 @@ If `one-runtime` shows **how** the system runs,
 
 ---
 
-🏛️ system — governance — framework 
+### 🏛️ system — governance — framework 
 System-level constitutional reference
 
 A public, inspectable framework for governing complex systems where power, automation, and human responsibility intersect.
