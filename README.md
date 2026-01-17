@@ -60,29 +60,51 @@ If `one-runtime` shows **how** the system runs,
 
 ---
 
-### 🏛️ ai — system — design — governance *System-Level Standard*
+🏛️ system — governance — framework 
+System-level constitutional reference
 
-The governing framework that sits above any individual AI system.
+A public, inspectable framework for governing complex systems where power, automation, and human responsibility intersect.
 
-System-level AI System Design & Governance framework
+This framework defines the **structural conditions that must be true** before, during, and after a system operates — regardless of technology.
 
-Defines what must be true before, during, and after an AI system exists
+It is intentionally **not implementation guidance**, **not policy**, and **not an enforcement mechanism**.
 
-Separates governance from implementation to avoid circular authority
+---
 
-Designed to apply to any AI-enabled socio-technical system, not just ONE
+## What this framework does
 
-This repository acts as the constitutional layer:
+• Defines system-level governance boundaries (authority, ownership, accountability)
+• Makes unacceptable system states explicit and legible
+• Separates governance from implementation to prevent circular authority
+• Provides a neutral diagnostic lens for assessing system legitimacy
+• Remains valid across technologies, organisations, and time
 
-it defines scope, authority, unacceptable states, and enforcement posture
+---
 
-it does not contain runtime code
+## What this framework is not
 
-it does not depend on ONE or any other system
+• Not a product or platform
+• Not a compliance checklist
+• Not a moral or values manifesto
+• Not specific to AI, ML, or any single technology
+• Not dependent on any system, including ONE
 
-AI systems (including ONE) sit inside this framework and may be inspected against it.
+---
 
-👉 https://github.com/lukeheywood/ai-system-design-governance
+## How to read it
+
+This repository is a **constitutional layer**.
+
+It exists independently of any system and can be used to inspect whether a system is structurally complete and governable.
+
+AI systems, socio-technical platforms, and automated decision systems may be evaluated **against** this framework — but never define it.
+
+The framework itself remains stable, public, and read-only.
+
+---
+
+🔗 Canonical reference:
+[https://github.com/lukeheywood/system-governance-framework](https://github.com/lukeheywood/system-governance-framework)
 
 ---
 
