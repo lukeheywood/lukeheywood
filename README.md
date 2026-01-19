@@ -1,178 +1,130 @@
-# ONE — GitHub Front Door
+# Luke Heywood — Systems, Governance, and Coherence Under Load
 
-### Coherence, Governance, and Systems That Hold Under Load
+I design governance‑first architectures for complex digital and AI‑enabled systems.
 
-Hi, I’m Luke. I design and build AI-enabled systems that stay **coherent, inspectable, and governed** under real-world complexity.
+My work addresses a structural gap most organisations never solve:
 
-This GitHub is the **front door** to the ONE system — a personal AI operating system built around memory, workflows, diagnostics, and explicit constraints.
+> System power grows faster than the structures that define who owns it, who can stop it, and what must never be allowed to happen.
 
-This is not a product showcase.
-It’s a **working system** with clear boundaries, runnable engines, and enforceable limits.
-
----
-
-## 🧭 The System at a Glance
-
-ONE is intentionally split across a small number of repositories, each with a single, explicit role:
-
-### 🧱 one-platform — *Canonical Truth*
-
-The authoritative system map.
-
-* System Atlas (what exists, what runs, what’s partial)
-* Codex (design rationale and intent)
-* Contracts index and governance surfaces
-* Canonical case studies and evidence
-
-If you want to understand **what ONE is and why it’s shaped this way**, start here.
-
-👉 [https://github.com/lukeheywood/one-platform](https://github.com/lukeheywood/one-platform)
+Rather than starting with tools or models, I work upstream — at the constitutional layer where legitimacy, authority, boundaries, and failure conditions must be defined before any system can safely operate.
 
 ---
 
-### ⚙️ one-runtime — *Runnable Public Mirror*
+## 🏛 Primary Work — System Governance Framework
 
-The system you can actually run.
+A public constitutional framework for governing socio‑technical and AI‑enabled systems.
 
-* Memory OS, Autopilot, Meta OS, Orchestrator, Control Tower UI
-* Governed workflows and inspection tooling
-* Fixture-driven, fully reconstructable
-* Zero private data, zero personal state
+It defines:
 
-This repo proves the system works — safely and inspectably.
+* What qualifies as a governing system
+* Where authority must sit
+* How governance drifts under pressure
+* Unacceptable system states
+* Why escalation is not governance
+* Revocation as the true test of control
 
-👉 [https://github.com/lukeheywood/one-runtime](https://github.com/lukeheywood/one-runtime)
+Technology‑agnostic. Applicable across AI, government, platforms, finance, healthcare, and infrastructure.
 
----
+This is not implementation.
+It is the layer systems must answer to.
 
-### 🛡️ contract-stack — *Governance Authority*
-
-The rules that bind the system.
-
-* Formal contracts and admissibility rules
-* Regression and coherence gates
-* Enforcement utilities used by the runtime
-
-If `one-runtime` shows **how** the system runs,
-`contract-stack` defines **where it must stop**.
-
-👉 [https://github.com/lukeheywood/contract-stack](https://github.com/lukeheywood/contract-stack)
+👉 [https://github.com/lukeheywood/system-governance-framework](https://github.com/lukeheywood/system-governance-framework)
 
 ---
 
-### 🏛️ system — governance — framework 
-System-level constitutional reference
+## 🧪 Scenarios — Structural Stress Testing
 
-A public, inspectable framework for governing complex systems where power, automation, and human responsibility intersect.
+The framework repo includes hypothetical stress simulations illustrating governance breakdown under real‑world pressure.
 
-This framework defines the **structural conditions that must be true** before, during, and after a system operates — regardless of technology.
+They demonstrate how systems fail when:
 
-It is intentionally **not implementation guidance**, **not policy**, and **not an enforcement mechanism**.
+* advisory output becomes behavioural authority
+* automation outruns ownership
+* legitimacy drifts silently
+* responsibility exists without control
+* revocation cannot occur despite authority claims
 
----
-
-## What this framework does
-
-• Defines system-level governance boundaries (authority, ownership, accountability)
-• Makes unacceptable system states explicit and legible
-• Separates governance from implementation to prevent circular authority
-• Provides a neutral diagnostic lens for assessing system legitimacy
-• Remains valid across technologies, organisations, and time
+These are fictional, clinical governance exercises — not commentary on real organisations.
 
 ---
 
-## What this framework is not
+## ⚙ Applied System — ONE
 
-• Not a product or platform
-• Not a compliance checklist
-• Not a moral or values manifesto
-• Not specific to AI, ML, or any single technology
-• Not dependent on any system, including ONE
+ONE is a governed AI system built inside the framework to prove constraints can be embedded from the ground up.
 
----
+It demonstrates:
 
-## How to read it
+* contract‑based boundaries
+* explicit authority separation
+* inspection surfaces
+* memory governance
+* workflow‑driven AI use
+* drift prevention under load
 
-This repository is a **constitutional layer**.
-
-It exists independently of any system and can be used to inspect whether a system is structurally complete and governable.
-
-AI systems, socio-technical platforms, and automated decision systems may be evaluated **against** this framework — but never define it.
-
-The framework itself remains stable, public, and read-only.
+ONE is not positioned as intelligence.
+It is an inspectable governed system.
 
 ---
 
-🔗 Canonical reference:
-[https://github.com/lukeheywood/system-governance-framework](https://github.com/lukeheywood/system-governance-framework)
+## Applied Systems Built Under This Framework
+
+The following repositories operationalise principles from the System Governance Framework:
+
+### 🧱 one-platform — Canonical Truth
+
+* System Atlas (legitimacy & status)
+* Codex (design rationale)
+* Governance surfaces & contracts
+* Promoted case studies
+  👉 [https://github.com/lukeheywood/one-platform](https://github.com/lukeheywood/one-platform)
+
+### ⚙️ one-runtime — Runnable Public Mirror
+
+* Memory OS
+* Autopilot Workflow Mode
+* Meta OS
+* Orchestrator UI
+* Governance‑aware execution
+  👉 [https://github.com/lukeheywood/one-runtime](https://github.com/lukeheywood/one-runtime)
+
+### 🛡️ contract-stack — Governance Authority
+
+* Formal contracts
+* Admissibility rules
+* Regression gates
+* Stop / revocation enforcement
+  👉 [https://github.com/lukeheywood/contract-stack](https://github.com/lukeheywood/contract-stack)
+
+### 🔍 system-diagnostics — Drift & Failure Lens
+
+* Drift detection patterns
+* Competing intent structures
+* Hidden coupling failures
+* Quiet degradation modes
+  👉 [https://github.com/lukeheywood/system-diagnostics](https://github.com/lukeheywood/system-diagnostics)
 
 ---
 
-### 🔍 system-diagnostics — *Drift & Failure Patterns*
+## 🔍 Themes Across All Work
 
-Supporting patterns for understanding why systems degrade over time.
+Governance before capability
+Authority before automation
+Boundaries before scale
+Inspection before trust
+Revocation before responsibility
 
-* Drift detection
-* Competing intents
-* Hidden coupling
-* Quiet failure modes
-
-This repo is not canonical, but it reflects how I reason about failure in complex platforms.
-
-👉 [https://github.com/lukeheywood/system-diagnostics](https://github.com/lukeheywood/system-diagnostics)
+I build systems that remain legible, constrained, and structurally honest — even under pressure.
 
 ---
 
-## 🧠 The Lens
+## 📌 Purpose of This GitHub
 
-Across all of this work, a few principles stay fixed:
+This account is a public record of:
 
-* **Coherence under load**
-  Systems must remain understandable even as complexity and pressure increase.
+* System‑level governance design
+* Governed AI infrastructure
+* Structural diagnostics
+* Case‑based architectural reasoning
+* Coherence engineering in practice
 
-* **Governance by design**
-  Constraints, invariants, and contracts prevent slow drift.
-
-* **AI as pipelines, not prompts**
-  LLMs are components inside workflows, not autonomous decision-makers.
-
-* **Explicit limits and abstention**
-  A system that knows when it must stop is safer than one that always answers.
-
-* **Inspection over vibes**
-  What exists, what runs, and what’s missing should be visible in black and white.
-
----
-
-## 📚 About Other Repositories
-
-You may notice additional archived or experimental repositories on this account.
-
-These are preserved for historical reference, pattern extraction, or prior exploration.
-They are **not authoritative** and are intentionally de-emphasized.
-
-The active system is represented by the repositories above.
-
----
-
-## ✍️ Authorship & Responsibility
-
-ONE is an authored system.
-
-I am its designer and take responsibility for its behavior, limits, and failure modes as it evolves.
-
-Its assumptions are explicit.
-Its constraints are intentional.
-Its gaps are named, not obscured.
-
-This work is built in public so it can be examined directly.
-
----
-
-If you’re interested in:
-
-* AI systems that don’t quietly drift,
-* governance that actually constrains behavior,
-* or making complex platforms legible again,
-
-you’re in the right place.
+Everything here is built to be examined, not admired.
