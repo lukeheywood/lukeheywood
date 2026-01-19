@@ -1,4 +1,4 @@
-# Luke Heywood — Systems, Governance, and Coherence Under Load
+# Governance-First Systems & Coherence Under Load
 
 I design governance‑first architectures for complex digital and AI‑enabled systems.
 
